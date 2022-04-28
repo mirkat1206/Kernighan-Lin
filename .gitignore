@@ -1,0 +1,5 @@
+.nfs*
+*.swp
+*.swo
+*.o
+/bin/*
